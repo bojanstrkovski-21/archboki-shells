@@ -1,0 +1,2 @@
+alias xrb='xmonad --recompile'
+alias xr='xmonad --restart'
